@@ -1,7 +1,5 @@
 
-print('Hello World')
-printt('This is a test file')
-Esc - Command
+print('ommand
 :wq - write and quit
 
 Esc - Insert (i,a,I,A)

@@ -1,6 +1,5 @@
 
-print('Hello World')
-printt('This is a test file')
+print('This is a Devops test')
 Esc - Command
 :wq - write and quit
 
