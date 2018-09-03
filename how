@@ -1,0 +1,91 @@
+[33mcommit 6fbc1283b6adf8265a5af47a81b5bfa1892e1a34[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 18:02:02 2018 +0530
+
+    test file
+
+[33mcommit 7a3a86ab2cff590865abf4fb5d4c863dc2f0026d[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 16:52:13 2018 +0530
+
+    new DevOps
+
+[33mcommit d856d6c65a93b738baf6f74809a492ddc9747f76[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 16:42:02 2018 +0530
+
+    deleting file
+
+[33mcommit 8a9dea04f19dc014038d0d53e70c3e5eb7a7ba85[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 16:19:45 2018 +0530
+
+    new file
+
+[33mcommit aa00f9e677bbb556c8f061ce0d3fbed5b3aeef89[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 16:16:33 2018 +0530
+
+    deleting this file which was created in error
+
+[33mcommit bb42b4dc6e5fefaf11a3beb26d305945da2e138f[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 16:13:25 2018 +0530
+
+    testfile
+
+[33mcommit 03646546bfb5f2fe6b9913da81a9453094661dad[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 15:20:17 2018 +0530
+
+    update
+    git@github.com:jeetasrani/devops.git
+
+[33mcommit 99f6af3e1fd3edecae898b15bd36f7c19fa5a631[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 15:15:28 2018 +0530
+
+    delete this thing
+
+[33mcommit edb90e0f38a0dede726b7953dc276d69e38a3352[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 15:08:05 2018 +0530
+
+    deleting files
+
+[33mcommit 8dd484452fe9880ef417c0710bdee3324ef3a0b7[m
+Merge: 885fed1 c8cfcd6
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 15:02:02 2018 +0530
+
+    mergeMerge branch 'master' of github.com:jeetasrani/devops
+
+[33mcommit 885fed1799d5f4fe143fb0cead757f6ac4bcf27a[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 14:52:25 2018 +0530
+
+    testing devops world
+
+[33mcommit c8cfcd6fc06eff4b7bbaacd1a5cef42f9dbefa83[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Mon Sep 3 14:52:25 2018 +0530
+
+    testing devops world
+
+[33mcommit 493960ed373ee598e3b0b5b13b280f6e209bd138[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Fri Aug 31 19:31:20 2018 +0530
+
+    test2
+
+[33mcommit 15bf77e0cc25bd81b11368b73e469fea0b01ef97[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Fri Aug 31 19:25:49 2018 +0530
+
+    this is an updated file
+
+[33mcommit 79de15bea91032c796d8b50593465333d6291ff3[m
+Author: Jeet Asrani <jeetu.asrani@gmail.com>
+Date:   Tue Aug 28 20:08:36 2018 +0530
+
+    My first program
